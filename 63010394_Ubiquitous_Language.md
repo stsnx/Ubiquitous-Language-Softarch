@@ -13,7 +13,7 @@
 |curriculum|the subjects comprising a course of study in a school or college.|		
 |diploma|a certificate awarded by an educational establishment to show that someone has successfully completed a course of study.|
 
-<h1>Securities</h1>
+<h1>Financial & Securities</h1>
 
 | Word      | Definition |
 | ----------- | ----------- |
@@ -29,7 +29,7 @@
 |replay attack	|a form of network attack in which valid data transmission is maliciously or fraudulently repeated or delayed.|		
 |shoulder surfing |direct observation techniques, such as looking over someone's shoulder, to get information.|
 
-<h1>Logistics</h1>
+<h1>Transportation & Logistics</h1>
 
 | Word      | Definition |
 | ----------- | ----------- |	
